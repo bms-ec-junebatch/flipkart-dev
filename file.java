@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 hi how are u all
+=======
+>>>>>>> 91d0154 (commit)
 hi this is wasim
 hi now iam updateing in master branch
 iam updating in developer branch
