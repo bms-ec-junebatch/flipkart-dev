@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+THIS IS WASIM
+>>>>>>> new
 hi how are u all
 hi this is wasim
 hi now iam updateing in master branch
